@@ -1,0 +1,50 @@
+{
+  "tiles": {
+    "name": "Ceramic Floor Tiles",
+    "unit": "sqm",
+    "base_price": {
+      "Marseille": 20,
+      "Paris": 28
+    }
+  },
+  "tile_removal_supplies": {
+    "name": "Tile Removal Supplies",
+    "unit": "job",
+    "base_price": {
+      "Marseille": 15,
+      "Paris": 18
+    }
+  },
+  "plumbing_kit": {
+    "name": "Plumbing Kit",
+    "unit": "job",
+    "base_price": {
+      "Marseille": 60,
+      "Paris": 80
+    }
+  },
+  "toilet": {
+    "name": "Toilet (Standard)",
+    "unit": "each",
+    "base_price": {
+      "Marseille": 110,
+      "Paris": 135
+    }
+  },
+  "vanity": {
+    "name": "Vanity Unit",
+    "unit": "each",
+    "base_price": {
+      "Marseille": 150,
+      "Paris": 180
+    }
+  },
+  "paint": {
+    "name": "Paint",
+    "unit": "sqm",
+    "base_price": {
+      "Marseille": 4,
+      "Paris": 5
+    }
+  }
+}
