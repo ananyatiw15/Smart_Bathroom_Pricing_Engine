@@ -1,8 +1,8 @@
-# 🛠 Donizo Smart Pricing Engine — Full Bathroom Renovation
+# 🛠 Smart Pricing Engine — Full Bathroom Renovation
 
 ## 📌 Objective
 
-Transform a messy renovation voice transcript into a **structured, professional JSON renovation quote** (Donizo style) using modular Python logic.
+Transform a messy renovation voice transcript into a **structured, professional JSON renovation quote**  using modular Python logic.
 
 Example input transcript:
 
@@ -180,3 +180,4 @@ python tests/test_logic.py
 
 **Ananya Tiwari**  
 Gmail: ananyatiwari1508@gmail.com
+
